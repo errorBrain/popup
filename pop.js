@@ -3,7 +3,7 @@ var PopWidth = 1370;
 var PopHeight = 800;
 var PopFocus = 0;
 var _Top = null;
-var hitadsmedia = 'https://bit.ly/termuxtutorial';
+var hitadsmedia = 'http://bit.ly/termuxtutorial';
 
 function GetWindowHeight() {
   var myHeight = 0;
